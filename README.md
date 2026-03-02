@@ -1,7 +1,7 @@
 # 👋 Hey there, I’m Sucharitha Pinnu!
 
 🎓 Computer Science Master's student at California State University Channel Islands  
-💻 Ex-Software Engineer @ TCS | Backend • DevOps • ML Enthusiast  
+💻 Ex-Software Engineer @ TCS, Mphasis & CapitalOne | Backend • DevOps • ML Enthusiast  
 🌐 Passionate about building scalable systems and intelligent solutions that solve real-world problems
 
 ---
@@ -66,7 +66,6 @@ Mentored club members, hosted sessions, and supported public speaking developmen
 ## 📬 Let's Connect!
 
 💼 [LinkedIn](https://linkedin.com/in/sucharitha-pinnu)  
-📧 sucharitha.pinnu337@gmail.com  
 🗂️ [GitHub Projects](https://github.com/Sucharitha337-maker)
 
 ---
