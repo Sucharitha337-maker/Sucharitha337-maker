@@ -8,9 +8,8 @@
 
 ## 🚀 What I'm Currently Doing
 
-🔧 Working as a Web and Project Management Assistant at CSUCI — automating workflows, maintaining internal portals, and optimizing IT documentation for 1000+ users  
 📚 Exploring advanced topics in Cloud Computing, Machine Learning, Neural Networks, and System Design  
-💬 Actively applying for SDE, SRE, and Data Analyst roles — aiming to contribute to high-impact software teams
+💬 Actively applying for DevOps, SRE, and Cloud Engineer roles — aiming to contribute to high-impact software teams
 
 ---
 
